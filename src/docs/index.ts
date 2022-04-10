@@ -20,7 +20,7 @@ class DocsPage {
     this.checkStatus();
 
     // Enable smooth scrolling of page links
-    SmoothScroll('a[href*="#"]', {
+    const smooth = new SmoothScroll('a[href*="#"]', {
       updateURL: false,
     });
   };
