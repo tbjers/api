@@ -43,7 +43,7 @@
     "express": "^4.17.1",
     "express-rate-limit": "^5.2.6",
     "express-routes-versioning": "^1.0.1",
-    "helmet": "^4.4.1",
+    "helmet": "^4.6.0",
     "marked": "^4.0.10",
     "mkdirp": "^1.0.4",
     "moment": "^2.29.4",
