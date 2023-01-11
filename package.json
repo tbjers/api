@@ -41,7 +41,7 @@
     "deepmerge": "^4.2.2",
     "dompurify": "^2.2.7",
     "express": "^4.17.1",
-    "express-rate-limit": "^5.2.6",
+    "express-rate-limit": "^5.5.1",
     "express-routes-versioning": "^1.0.1",
     "helmet": "^4.4.1",
     "marked": "^4.0.10",
